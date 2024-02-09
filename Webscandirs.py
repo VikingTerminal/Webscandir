@@ -13,6 +13,7 @@ print(Fore.MAGENTA + """
 | '   / /| || ' |/ . |
 |__/ |__\_\|__|_|\_. |
                      <___'
+  t.me/Rapid85
 """)
 
 while True:
